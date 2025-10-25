@@ -1,10 +1,13 @@
-package com.tnsif.assignmentOne;
+package comtnsif.Assignmentone;
 
-public class mainclass {
-
+public class Mainclass {
 	public static void main(String[] args) {
 		Commission emp = new Commission();
         emp.acceptDetails();
         emp.calculateCommission();
-}
+		// TODO Auto-generated method stub
+
+	}
+
+
 }

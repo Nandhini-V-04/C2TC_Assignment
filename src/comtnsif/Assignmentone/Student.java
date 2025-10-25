@@ -1,7 +1,8 @@
-package com.tnsif.assignmentOne;
+package comtnsif.Assignmentone;
 
 public class Student {
-	  Student() {
+	 Student() {
 	        System.out.println("Student object is created");
-	        }
+	    }
+
 }

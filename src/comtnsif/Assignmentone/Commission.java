@@ -1,6 +1,5 @@
-package com.tnsif.assignmentOne;
+package comtnsif.Assignmentone;
 
-import java.util.Scanner;
 public class Commission {
 	String name, address, phone;
     double sales_amount;
@@ -39,4 +38,5 @@ public class Commission {
         System.out.println("Sales Amt  : " + sales_amount);
         System.out.println("Commission : " + commission);
     }
+
 }
